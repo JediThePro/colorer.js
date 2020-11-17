@@ -1,13 +1,13 @@
 {
-	"name": "chalk",
-	"version": "4.1.0",
-	"description": "Terminal string styling done right",
+	"name": "colorer.js",
+	"version": "1.0.0",
+	"description": "A terminal coloring. Can be colored with any colors with supported RGB, and Color Codes. A easy-to-use package that everyone can do. Also supported font styles like Bold, Italic, Strikethrough, and underline.",
 	"license": "MIT",
-	"repository": "chalk/chalk",
-	"funding": "https://github.com/chalk/chalk?sponsor=1",
+	"author": "JediThePro",
+	"repository": "JediThePro/colorer.js",
 	"main": "source",
 	"engines": {
-		"node": ">=10"
+		"node": ">=12"
 	},
 	"scripts": {
 		"test": "xo && nyc ava && tsd",
